@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  match_time: 2013-09-21
+  team1: MyString
+  team2: MyString
+  tournament: MyString
+  mode: MyString
+
+two:
+  match_time: 2013-09-21
+  team1: MyString
+  team2: MyString
+  tournament: MyString
+  mode: MyString
